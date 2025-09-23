@@ -4,6 +4,6 @@
 int main() {
     CrapsGame game;
     game.playGames(1000);   // simulate 1000 games
-    game.printStatistics(); // print results
+    game.printStatistics(); 
     return 0;
 }
